@@ -1,15 +1,11 @@
-// ASK 2020 York Online Masters
-// ---------UDPServer ---------
+// ---------UDP Server, stop and wait protocol---------
 //  Socket communications UDP
-
-//Based on the code provided in 2.4.1 Lesson & Activity: Socket Programming with UDP, CAMN module
 
 // Imports required packages
 import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 import java.util.List;
-
 
 class UDPServerSandW {
 	
