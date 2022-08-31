@@ -1,3 +1,5 @@
+Two sets of examples for UDP client and server programs in Java.
+
 **1. Starting a server program:**
 
 Using the console/cmd, compile and run one of the server programs.
