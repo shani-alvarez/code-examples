@@ -1,8 +1,5 @@
-// ASK 2020 York Online Masters
-// ---------UDPServer ---------
+// ---------UDP Client---------
 //  Socket communications UDP
-
-//Based on the code provided in 2.4.1 Lesson & Activity: Socket Programming with UDP, CAMN module
 
 // Imports required packages
 import java.util.ArrayList;
